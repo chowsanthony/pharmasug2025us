@@ -1,0 +1,526 @@
+{
+    "code": "C17998",
+    "name": "Unknown",
+    "terminology": "ncit",
+    "version": "25.04d",
+    "conceptStatus": "DEFAULT",
+    "leaf": false,
+    "active": true,
+    "synonyms": [
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "ACC/AHA",
+            "code": "AV",
+            "subSource": "SARS2"
+        },
+        {
+            "name": "Unknown",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "caDSR"
+        },
+        {
+            "name": "U",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-SEVRS"
+        },
+        {
+            "name": "U",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-SEX"
+        },
+        {
+            "name": "U",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-NY"
+        },
+        {
+            "name": "U",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "CDISC"
+        },
+        {
+            "name": "UNK",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "CDISC"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-RACEC"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-ETHNICC"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-RSKASMT"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-TRTSET"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-SEXORIRS"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-ACN"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SEND-AGESMETH"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-TRTINTNT"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-SSTATRS"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-ISXDXRS"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-ETHNIC"
+        },
+        {
+            "name": "Unknown",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "CDISC"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "CDASH-EXDOSFRQ"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-RACE"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SEND-NULLFLAV"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-GENIDENT"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-MODTRN"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-CVSLDEXT"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-NORMABNM"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-MSSTRESC"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-CVPRCIND"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-FREQ"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-CLINSTRS"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-STENRF"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-TPACN"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-OUT"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "SDTM-TUIDRS"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CDISC",
+            "code": "CDASH-CMDOSFRQ"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "CTDC"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "DIPG/DMG"
+        },
+        {
+            "name": "Unknown",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "FDA",
+            "subSource": "ICSR"
+        },
+        {
+            "name": "UNKNOWN",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "FDA",
+            "subSource": "ICSR"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "FDA",
+            "subSource": "PQCMC"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "FDA",
+            "subSource": "ICSR-CVM"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "GDC"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "HL7",
+            "code": "UNK"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "ICDC",
+            "subSource": "ICDC"
+        },
+        {
+            "name": "Not Known",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "NCI"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "NCI"
+        },
+        {
+            "name": "Unknown/Not Stated",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "NCI"
+        },
+        {
+            "name": "Unknown",
+            "type": "Preferred_Name"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "OORO",
+            "subSource": "PC"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "GCT"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "AML"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "ALL"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "HL"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "OS"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "PCDC",
+            "subSource": "EWS"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "SeroNet"
+        },
+        {
+            "name": "Unknown",
+            "termType": "PT",
+            "type": "FULL_SYN",
+            "source": "UCUM"
+        },
+        {
+            "name": "{Unknown}",
+            "termType": "SY",
+            "type": "FULL_SYN",
+            "source": "UCUM"
+        }
+    ],
+    "definitions": [
+        {
+            "definition": "A proper value is applicable but not known.",
+            "type": "ALT_DEFINITION",
+            "source": "ACC/AHA",
+            "qualifiers": [
+                {
+                    "type": "attribution",
+                    "value": "SARS2"
+                }
+            ]
+        },
+        {
+            "definition": "Not known, not observed, not recorded, or refused.",
+            "type": "ALT_DEFINITION",
+            "source": "FDA",
+            "qualifiers": [
+                {
+                    "type": "attribution",
+                    "value": "SPL"
+                }
+            ]
+        },
+        {
+            "definition": "Not known, not observed, not recorded, or refused.",
+            "type": "ALT_DEFINITION",
+            "source": "PQCMC"
+        },
+        {
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "type": "ALT_DEFINITION",
+            "source": "CDISC"
+        },
+        {
+            "definition": "Not known, observed, recorded; or reported as unknown by the data contributor.",
+            "type": "DEFINITION",
+            "source": "NCI"
+        },
+        {
+            "definition": "Reported as unknown by the data contributor.",
+            "type": "ALT_DEFINITION",
+            "source": "PCDC",
+            "qualifiers": [
+                {
+                    "type": "attribution",
+                    "value": "AML"
+                }
+            ]
+        }
+    ],
+    "properties": [
+        {
+            "type": "Contributing_Source",
+            "value": "ACC/AHA"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "CDISC"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "CTDC"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "DIPG/DMG"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "FDA"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "GDC"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "ICDC"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "OORO"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "PCDC"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "SeroNet"
+        },
+        {
+            "type": "Contributing_Source",
+            "value": "UCUM"
+        },
+        {
+            "type": "DesignNote",
+            "value": "Used for Cancer Activities Coding when cancer activity is not specified."
+        },
+        {
+            "type": "Legacy Concept Name",
+            "value": "Unknown"
+        },
+        {
+            "type": "Maps_To",
+            "value": "Unknown"
+        },
+        {
+            "type": "Maps_To",
+            "value": "unknown"
+        },
+        {
+            "type": "Semantic_Type",
+            "value": "Idea or Concept"
+        },
+        {
+            "type": "UMLS_CUI",
+            "value": "C0439673"
+        },
+        {
+            "type": "Use_For",
+            "value": "Nonspecific"
+        }
+    ]
+}
